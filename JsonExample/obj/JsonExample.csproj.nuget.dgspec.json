@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\json-And-nuget\\JsonExample\\JsonExample.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\Json-And-nuget\\JsonExample\\JsonExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\json-And-nuget\\JsonExample\\JsonExample.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\Json-And-nuget\\JsonExample\\JsonExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\json-And-nuget\\JsonExample\\JsonExample.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\Json-And-nuget\\JsonExample\\JsonExample.csproj",
         "projectName": "JsonExample",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\json-And-nuget\\JsonExample\\JsonExample.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\Json-And-nuget\\JsonExample\\JsonExample.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\json-And-nuget\\JsonExample\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\Json-And-nuget\\JsonExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
