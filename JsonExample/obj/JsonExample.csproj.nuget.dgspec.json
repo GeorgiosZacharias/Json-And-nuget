@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peter\\Desktop\\Geo Files\\studying\\Json And nuget\\JsonExample\\JsonExample.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\json-And-nuget\\JsonExample\\JsonExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peter\\Desktop\\Geo Files\\studying\\Json And nuget\\JsonExample\\JsonExample.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\json-And-nuget\\JsonExample\\JsonExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peter\\Desktop\\Geo Files\\studying\\Json And nuget\\JsonExample\\JsonExample.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\json-And-nuget\\JsonExample\\JsonExample.csproj",
         "projectName": "JsonExample",
-        "projectPath": "C:\\Users\\peter\\Desktop\\Geo Files\\studying\\Json And nuget\\JsonExample\\JsonExample.csproj",
-        "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peter\\Desktop\\Geo Files\\studying\\Json And nuget\\JsonExample\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\json-And-nuget\\JsonExample\\JsonExample.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\studying\\Nuget and Json\\json-And-nuget\\JsonExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
