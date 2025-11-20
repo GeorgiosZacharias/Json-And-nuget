@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JsonExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+572d9e72df6fa3a2ffa81a8c2bfc733c0744ae3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("JsonExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JsonExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
